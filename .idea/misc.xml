@@ -4,9 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android30404/MYLandmark/app/src/main/res/layout/activity_call.xml" value="0.276268115942029" />
-        <entry key="..\:/Android30404/MYLandmark/app/src/main/res/layout/activity_guide.xml" value="0.1" />
+        <entry key="..\:/Android30404/MYLandmark/app/src/main/res/layout/activity_guide.xml" value="0.2" />
         <entry key="..\:/Android30404/MYLandmark/app/src/main/res/layout/activity_info.xml" value="0.33" />
         <entry key="..\:/Android30404/MYLandmark/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Android30404/MYLandmark/app/src/main/res/menu/bottom_nav_menu.xml" value="0.33" />
       </map>
     </option>
   </component>

@@ -50,7 +50,7 @@ public class infoActivity extends AppCompatActivity implements View.OnClickListe
 
         }else if(view.getId() == R.id.img_info){
             imgno = ++imgno % 5;
-            img_info.setImageResource();]
+            img_info.setImageResource(imgs[imgno]);
             txt_info.setText((txts[imgno]));
         }
     }
